@@ -36,6 +36,9 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DepthFirstSearch", "DepthFirstSearch\DepthFirstSearch.csproj", "{DAD70438-EDFB-4D6C-B0C8-DB99B83BA7A3}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "GreedyAlgoritm", "GreedyAlgoritm", "{C71DB1CA-7746-4DE5-80C0-65A282677927}"
+	ProjectSection(SolutionItems) = preProject
+		Algoritm_Document.txt = Algoritm_Document.txt
+	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GreedyAlgoritm_Project", "GreedyAlgoritm_Project\GreedyAlgoritm_Project.csproj", "{983C404C-6DE6-43F3-A6FE-D26782E50905}"
 EndProject
